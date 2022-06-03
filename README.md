@@ -1,12 +1,28 @@
-## Beneficio Si
+<a name="top"></a>
+# 🚀 Beneficiosi
 
 Frontend principal para el marketplace [Beneficio Si](http://tubeneficiosi.com/)
 
+![]()
+
+
+## Índice de contenidos
+* [Tecnologías](#item0)
+* [Instalación](#item1)
+* [Componentes](#item2)
+	 * [AppLayout.js](#item3)
+
+
+
+<a name="item0"></a>
 ## Tecnologías
 - [Node.js](https://nodejs.org/)
 - [React JS](https://es.reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
+
+
+<a name="item1"></a>
 ## Instalación
 ```bash
 git clone https://github.com/Tecsoess/beneficiosi-clients-front.git
@@ -19,13 +35,14 @@ Configurar variables de entorno en el archivo .env
 npm run start
 ```
 
-<a name="top"></a>
-# 🚀 Recipes React components
+## Componentes
 
-This list contains all the components created during the development of the Recipes application, which has web and mobile versions. These components were structured to facilitate their re-implementation as the marketplace progresses.
-
-![]()
+<a name="item2"></a>
+* ### AppLayout.js
  
-## Índice de contenidos
-[Frontend](#item0)
-* [AppLayout](#item1)
+
+
+
+
+
+
