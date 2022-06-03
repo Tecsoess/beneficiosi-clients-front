@@ -18,3 +18,14 @@ Configurar variables de entorno en el archivo .env
 ```bash
 npm run start
 ```
+
+<a name="top"></a>
+# 🚀 Recipes React components
+
+This list contains all the components created during the development of the Recipes application, which has web and mobile versions. These components were structured to facilitate their re-implementation as the marketplace progresses.
+
+![]()
+ 
+## Índice de contenidos
+[Frontend](#item0)
+* [AppLayout](#item1)
