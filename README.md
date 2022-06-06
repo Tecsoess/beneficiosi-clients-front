@@ -1,7 +1,5 @@
 <a name="top"></a>
-# 🚀 Beneficiosi
-
-Frontend principal para el marketplace [Beneficio Si](http://tubeneficiosi.com/)
+# 🚀 Beneficiosi Componentes 
 
 ![]()
 
