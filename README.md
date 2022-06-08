@@ -151,6 +151,8 @@ Carpeta Principal que se encarga del contener los componentes de Descuento aplic
 
 Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
+[Subir](#Top)
+
 
 <a name="item0"></a>
 * ### DiscountsSlider.js
@@ -167,6 +169,8 @@ Componente encargado del diseño del swiper del componente creado.
 
 Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este contiene una variable que permite agregar el contenido correspondiente a casa pagina de la aplicacion. 
 
+[Subir](#Top)
+
 
 <a name="item0"></a>
 * ### CardIssuersList.js
@@ -181,6 +185,8 @@ Componente que contiene las diferentes cards de las agencias bancarias  y superm
 * ### CardsList.js
 
 Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas
+
+[Subir](#Top)
 
 
 <a name="item0"></a>
@@ -197,6 +203,9 @@ Componente de navegacion que contine las diferentes categorias del marketplace c
 
 Componente encargado para  la vista del pie de pagina del sitio, contiene elementos para el redirecionamiento de las redes del sitio como Facebook, Twitter, Instagram, Youtube
 
+[Subir](#Top)
+
+
 
 <a name="item0"></a>
 * ### LeftSidebarLayout.js
@@ -211,6 +220,9 @@ Componente padre que contiene  los elementos del sidebar  y del body de la pagin
 * ### NavLinks.js
 
 Componente que contiene los botones de Comprar ayuda y ingresar.
+
+[Subir](#Top)
+
 
 
 <a name="item0"></a>
@@ -227,6 +239,9 @@ Componente que contiene los botones de buscar.
 
 Contiene la parte superior del header donde se ubica los items que direcciona la navegación del usuario que contiene el componente NavLinks, NavSearchBar. Tambien esta compuesto por la franga roja que contiene localizacion, ofretas, servicios y comercios.
 
+[Subir](#Top)
+
+
 
 <a name="item0"></a>
 * ### PageLogo.js
@@ -242,6 +257,8 @@ Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que v
 
 Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
+[Subir](#Top)
+
 
 <a name="item0"></a>
 * ### SelectCardsList.js
@@ -252,11 +269,12 @@ Titulación de las secciones. Recibe parametro de texto modificable, debido a qu
 
 
 
-
 <a name="item0"></a>
 * ### SelectUserToLogin.js
 
 Componente encargado del diseño de seleccion de si eres user o tienda.
+
+[Subir](#Top)
 
 
 <a name="item0"></a>
@@ -268,12 +286,13 @@ Componente encargado de mostrar la tarjeta de descuento por tienda.
 
 
 
-
-
 <a name="item0"></a>
 * ### StoreFeatureFilter.js
 
 Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos 
+
+[Subir](#Top)
+
 
 
 <a name="item0"></a>
@@ -286,11 +305,13 @@ Componente con una descripcion de la informacion de la tienda telefono y sus res
 
 
 
-
 <a name="item0"></a>
 * ### TagsFilter.js
 
 Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento,
+
+[Subir](#Top)
+
 
 <a name="item0"></a>
 * ### TagsFilters.js
