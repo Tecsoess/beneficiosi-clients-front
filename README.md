@@ -21,53 +21,53 @@ npm run start
 
 
 ## Componentes
-* [Componentes](#item1)
-* [AppLayout.js](#item2)
-* [Badge.js](#item3)
-* [BankExpandableButton.js](#item4)
-* [BolichesFeaturedProducts.js](#item5)
-* [BussinessSection.js](#item6)
-* [Button.js](#item7)
-* [CardIssuersList.js](#item8)
-* [CardsList.js](#item9)
-* [CartsRows.js](#item10)
-* [CategoryCheckbox.js](#item11)
-* [CategoryFilter.js](#item12)
-* [CategorySectionCard.js](#item13)
-* [CategorySubMenu.js](#item14)
-* [ChatAlt2Icon.js](#item15)
-* [CheckoutDetailsCard.js](#item16)
-* [ChevronDoubleLeftIcon.js](#item17)
-* [ChevronDoubleRightIcon.js](#item18)
-* [ChevronRightIcon.js](#item19)
-* [CustomAlert.js](#item20)
-* [CustomInput.js](#item21)
-* [CustomModal.js](#item22)
-* [CustomSelect.js](#item23)
-* [CustomSelect.js](#item24)
-* [CustomSelect.js](#item25)
-* [CustomSelect.js](#item26)
-* [CustomSelect.js](#item27)
-* [CustomSelect.js](#item28)
-* [CustomSelect.js](#item29)
-* [CustomSelect.js](#item30)
-* [CustomSelect.js](#item31)
-* [CustomSelect.js](#item32)
-* [CustomSelect.js](#item33)
-* [CustomSelect.js](#item34)
-* [CustomSelect.js](#item35)
-* [CustomSelect.js](#item36)
-* [CustomSelect.js](#item37)
+* [dicounts](#item1)
+* [BankDiscountCard.js](#item2)
+* [DiscountCardIssuerRow.js](#item3)
+* [DiscountCardRow.js](#item4)
+* [DiscountModal.js](#item5)
+* [DiscountStoreCard.js](#item6)
+* [DiscountsSlider.js](#item7)
+* [StoreDiscountsModal.js](#item8)
+* [googlemaps](#item9)
+* [Map.js](#item10)
+* [MapWithASearchBox.js](#item11)
+* [notifications](#item12)
+* [NotificationRow.js](#item13)
+* [NotificationsComponent.js](#item14)
+* [NotificationsList.js](#item15)
+* [AppLayout.js](#item16)
+* [Badge.js](#item17)
+* [BankExpandableButton.js](#item18)
+* [BolichesFeaturedProducts.js](#item19)
+* [BussinessSection.js](#item20)
+* [Button.js](#item21)
+* [CardIssuersList.js](#item22)
+* [CardsList.js](#item23)
+* [CartsRows.js](#item24)
+* [CategoryCheckbox.js](#item25)
+* [CategorySectionCard.js](#item26)
+* [CategorySubMenu.js](#item27)
+* [ChatAlt2Icon.js](#item28)
+* [CheckoutDetailsCard.js](#item29)
+* [ChevronDoubleLeftIcon.js](#item30)
+* [ChevronDoubleRightIcon.js](#item31)
+* [ChevronDownIcon.js](#item32)
+* [ChevronRightIcon.js](#item33)
+* [Container.js](#item34)
+* [CustomAlert.js](#item35)
+* [CustomInput.js](#item36)
+* [CustomModal.js](#item37)
 * [CustomSelect.js](#item38)
-* [CustomSelect.js](#item39)
-* [CustomSelect.js](#item40)
-* [CustomSelect.js](#item41)
-* [CustomSelect.js](#item42)
-* [CustomSelect.js](#item43)
-* [CustomSelect.js](#item44)
-* [CustomSelect.js](#item45)
-* [CustomSelect.js](#item46)
-* [CustomSelect.js](#item47)
+* [ErrorMsg.js](#item39)
+* [FacebookIcon.js](#item40)
+* [FeaturedStores.js](#item41)
+* [FiltersModal.js](#item42)
+* [Footers.js](#item43)
+* [GastronomyFeaturedProducts.js](#item44)
+* [GridIcon.js](#item45)
+* [HeartIcon.js](#item46)
+* [HomeBanksDiscountsSlider.js](#item47)
 * [CustomSelect.js](#item48)
 * [CustomSelect.js](#item49)
 * [CustomSelect.js](#item50)
@@ -138,6 +138,7 @@ npm run start
 <a name="item2"></a>
 * ### BankExpandableButton.js
 
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### BolichesFeaturedProducts.js
@@ -146,6 +147,7 @@ npm run start
 <a name="item2"></a>
 * ### BussinessSection.js
 
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### Button.js
@@ -154,6 +156,8 @@ npm run start
 <a name="item2"></a>
 * ### CardIssuersList.js
 
+[Subir](#Top)
+
 
 <a name="item2"></a>
 * ### CardsList.js
@@ -161,7 +165,8 @@ npm run start
 
 <a name="item2"></a>
 * ### CartsRows.js
-
+* 
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### CategoryCheckbox.js
@@ -173,7 +178,7 @@ npm run start
 
 <a name="item2"></a>
 * ### CategorySectionCard.js
-
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### CategorySubMenu.js
@@ -181,7 +186,7 @@ npm run start
 
 <a name="item2"></a>
 * ### ChatAlt2Icon.js
-
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### CheckoutDetailsCard.js
@@ -189,7 +194,7 @@ npm run start
 
 <a name="item2"></a>
 * ### ChevronDoubleLeftIcon.js
-
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### ChevronDoubleRightIcon.js
@@ -197,18 +202,21 @@ npm run start
 
 <a name="item2"></a>
 * ### ChevronDownIcon.js
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### ChevronRightIcon.js
 
 <a name="item2"></a>
 * ### Container.js
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### CustomAlert.js
 
 <a name="item2"></a>
 * ### CustomInput.js
+[Subir](#Top)
 
 <a name="item2"></a>
 * ### CustomModal.js
@@ -216,7 +224,7 @@ npm run start
 <a name="item2"></a>
 * ### CustomSelect.js
 
-
+[Subir](#Top)
 
 
 
