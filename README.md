@@ -68,64 +68,76 @@ npm run start
 * [GridIcon.js](#item45)
 * [HeartIcon.js](#item46)
 * [HomeBanksDiscountsSlider.js](#item47)
-* [CustomSelect.js](#item48)
-* [CustomSelect.js](#item49)
-* [CustomSelect.js](#item50)
-* [CustomSelect.js](#item51)
-* [CustomSelect.js](#item52)
-* [CustomSelect.js](#item53)
-* [CustomSelect.js](#item54)
-* [CustomSelect.js](#item55)
-* [CustomSelect.js](#item56)
-* [CustomSelect.js](#item57)
-* [CustomSelect.js](#item58)
-* [CustomSelect.js](#item59)
-* [CustomSelect.js](#item60)
-* [CustomSelect.js](#item61)
-* [CustomSelect.js](#item62)
-* [CustomSelect.js](#item63)
-* [CustomSelect.js](#item64)
-* [CustomSelect.js](#item65)
-* [CustomSelect.js](#item66)
-* [CustomSelect.js](#item67)
-* [CustomSelect.js](#item68)
-* [CustomSelect.js](#item69)
-* [CustomSelect.js](#item70)
-* [CustomSelect.js](#item71)
-* [CustomSelect.js](#item72)
-* [CustomSelect.js](#item73)
-* [CustomSelect.js](#item74)
-* [CustomSelect.js](#item75)
-* [CustomSelect.js](#item76)
-* [CustomSelect.js](#item77)
-* [CustomSelect.js](#item78)
-* [CustomSelect.js](#item79)
-* [CustomSelect.js](#item80)
-* [CustomSelect.js](#item81)
-* [CustomSelect.js](#item82)
-* [CustomSelect.js](#item83)
-* [CustomSelect.js](#item84)
-* [CustomSelect.js](#item85)
-* [CustomSelect.js](#item86)
-* [CustomSelect.js](#item87)
-* [CustomSelect.js](#item88)
-* [CustomSelect.js](#item89)
-* [CustomSelect.js](#item90)
-* [CustomSelect.js](#item91)
-* [CustomSelect.js](#item92)
-* [CustomSelect.js](#item93)
-* [CustomSelect.js](#item94)
-* [CustomSelect.js](#item95)
-* [CustomSelect.js](#item96)
-* [CustomSelect.js](#item97)
-* [CustomSelect.js](#item98)
+* [HomeSlider.js](#item48)
+* [ImgUploadInput.js](#item49)
+* [InstagramIcon.js](#item50)
+* [LeftSidebarLayout.js](#item51)
+* [LineChart.js](#item52)
+* [ListIcon.js](#item53)
+* [LocationMarker.js](#item54)
+* [MainCategoriesBar.js](#item55)
+* [MapContainer.js](#item56)
+* [MobileAppSection.js](#item57)
+* [MobileMenu.js](#item58)
+* [MyAccountCartsTable.js](#item59)
+* [MyAccountCorvesationsTable.js](#item60)
+* [MyAccountLayout.js](#item61)
+* [NavLinks.js](#item62)
+* [NavSearchBar.js](#item63)
+* [Navbar.js](#item64)
+* [NecessaryInfo.js](#item65)
+* [OrdersRows.js](#item66)
+* [OrdersTable.js](#item67)
+* [PageLogo.js](#item68)
+* [Pagination.js](#item69)
+* [PayMethodSection.js](#item70)
+* [PharmacyFeaturedProducts.js](#item71)
+* [PhoneIcon.js](#item72)
+* [PlusIcon.js](#item73)
+* [PriceFilter.js](#item74)
+* [PrintOrderComponent.js](#item75)
+* [PrivateRoute.js](#item76)
+* [ProductAdCard.js](#item77)
+* [ProductCard.js](#item78)
+* [ProductFeature.js](#item79)
+* [ProductFeatureCheckbox.js](#item80)
+* [ProductFeatureGroup.js](#item81)
+* [ProductFeaturesModal.js](#item82)
+* [ProductHorizontalCard.js](#item83)
+* [ProductImagesCarousel.js](#item84)
+* [ProductLoadingComponent.js](#item85)
+* [ProductProfile.js](#item86)
+* [ProductRatingRow.js](#item87)
+* [ProductToRatingModal.js](#item88)
+* [ProductsAdsSlider.js](#item89)
+* [ProductsCollection.js](#item90)
+* [ProductsFilters.js](#item91)
+* [ProductsGrid.js](#item92)
+* [QuestionsAnswer.js](#item93)
+* [RatingsFilter.js](#item94)
+* [RenderListStoresCategories.js](#item95)
+* [SearchAddressFilter.js](#item96)
+* [SearchInputMobile.js](#item97)
+* [SectionHeading.js](#item98)
+* [Select.js](#item99)
+* [SelectCardsList.js](#item100)
+* [SelectDeliverySection.js](#item101)
+* [SelectGridMode.js](#item102)
+* [SelectUserToLogin.js](#item103)
+* [ShareIcon.js](#item104)
+* [ShowProfile.js](#item105)
+* [ShowsFeaturedProducts.js](#item106)
+* [StarIcon.js](#item107)
+* [StoreCard.js](#item108)
+* [StoreCategoryFilter.js](#item109)
+* [StoreDiscountCard.js](#item110) 114
 	 
 		
 
 
 ## Componentes
 
-<a name="item2"></a>
+<a name="item1"></a>
 * ### AppLayout.js
 * 
 [Subir](#Top)
@@ -139,93 +151,4 @@ npm run start
 * ### BankExpandableButton.js
 
 [Subir](#Top)
-
-<a name="item2"></a>
-* ### BolichesFeaturedProducts.js
-
-
-<a name="item2"></a>
-* ### BussinessSection.js
-
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### Button.js
-
-
-<a name="item2"></a>
-* ### CardIssuersList.js
-
-[Subir](#Top)
-
-
-<a name="item2"></a>
-* ### CardsList.js
-
-
-<a name="item2"></a>
-* ### CartsRows.js
-* 
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### CategoryCheckbox.js
-
-
-<a name="item2"></a>
-* ### CategoryFilter.js
-
-
-<a name="item2"></a>
-* ### CategorySectionCard.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### CategorySubMenu.js
-
-
-<a name="item2"></a>
-* ### ChatAlt2Icon.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### CheckoutDetailsCard.js
-
-
-<a name="item2"></a>
-* ### ChevronDoubleLeftIcon.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### ChevronDoubleRightIcon.js
-
-
-<a name="item2"></a>
-* ### ChevronDownIcon.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### ChevronRightIcon.js
-
-<a name="item2"></a>
-* ### Container.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### CustomAlert.js
-
-<a name="item2"></a>
-* ### CustomInput.js
-[Subir](#Top)
-
-<a name="item2"></a>
-* ### CustomModal.js
-
-<a name="item2"></a>
-* ### CustomSelect.js
-
-[Subir](#Top)
-
-
-
 
