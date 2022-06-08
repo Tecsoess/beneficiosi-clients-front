@@ -138,17 +138,166 @@ npm run start
 ## Componentes
 
 <a name="item1"></a>
+* ### dicounts
+
+Carpeta Principal que se encarga del contener los componentes de Descuento aplicado en la pagina de Beneficio
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### DiscountStoreCard.js
+
+Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
+
+
+<a name="item0"></a>
+* ### DiscountsSlider.js
+
+Componente encargado del diseño del swiper del componente creado.
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
 * ### AppLayout.js
-* 
+
+Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este contiene una variable que permite agregar el contenido correspondiente a casa pagina de la aplicacion. 
+
+
+<a name="item0"></a>
+* ### CardIssuersList.js
+
+Componente que contiene las diferentes cards de las agencias bancarias  y supermercados entes  con el respectivo descuento
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### CardsList.js
+
+Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas
+
+
+<a name="item0"></a>
+* ### Container.js
+
+Componente de navegacion que contine las diferentes categorias del marketplace como gastronomia espectaculos supermercados boliches y farmacias  
+
 [Subir](#Top)
 
 
 
-<a name="item2"></a>
-* ### Badge.js
+<a name="item0"></a>
+* ### Footers.js
 
-<a name="item2"></a>
-* ### BankExpandableButton.js
+Componente encargado para  la vista del pie de pagina del sitio, contiene elementos para el redirecionamiento de las redes del sitio como Facebook, Twitter, Instagram, Youtube
+
+
+<a name="item0"></a>
+* ### LeftSidebarLayout.js
+
+Componente padre que contiene  los elementos del sidebar  y del body de la pagina donde se pueden apreciar las agencias bancarias los supermecados entes y tiendas  
 
 [Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### NavLinks.js
+
+Componente que contiene los botones de Comprar ayuda y ingresar.
+
+
+<a name="item0"></a>
+* ### NavSearchBar.js
+
+Componente que contiene los botones de buscar.
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### Navbar.js
+
+Contiene la parte superior del header donde se ubica los items que direcciona la navegación del usuario que contiene el componente NavLinks, NavSearchBar. Tambien esta compuesto por la franga roja que contiene localizacion, ofretas, servicios y comercios.
+
+
+<a name="item0"></a>
+* ### PageLogo.js
+
+Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que varia desde un rango desde el mas valorado hast ael menos valorado.
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### RatingsFilter.js
+
+Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
+
+
+<a name="item0"></a>
+* ### SelectCardsList.js
+
+Titulación de las secciones. Recibe parametro de texto modificable, debido a que se utiliza en varias secciones del Home.
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### SelectUserToLogin.js
+
+Componente encargado del diseño de seleccion de si eres user o tienda.
+
+
+<a name="item0"></a>
+* ### StoreDiscountCard.js
+
+Componente encargado de mostrar la tarjeta de descuento por tienda.
+
+[Subir](#Top)
+
+
+
+
+
+<a name="item0"></a>
+* ### StoreFeatureFilter.js
+
+Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos 
+
+
+<a name="item0"></a>
+* ### StoreInfo.js
+
+Componente con una descripcion de la informacion de la tienda telefono y sus respectivas redes sociales Facebook Instagram y Whatsapp  
+
+[Subir](#Top)
+
+
+
+
+
+<a name="item0"></a>
+* ### TagsFilter.js
+
+Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento,
+
+<a name="item0"></a>
+* ### TagsFilters.js
+
+componete donde se visualiza y cumple la funcion de visualizar y filtrar los minimos y los maximos de los precios de sus productos
+
+[Subir](#Top)
+
+
 
