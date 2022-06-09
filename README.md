@@ -142,6 +142,7 @@ npm run start
 
 Carpeta Principal que se encarga del contener los componentes de Descuento aplicado en la pagina de Beneficio
 
+![]() 
 [Subir](#Top)
 
 
