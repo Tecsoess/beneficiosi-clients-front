@@ -151,9 +151,9 @@ Carpeta Principal que se encarga del contener los componentes de Descuento aplic
 <a name="item0"></a>
 * ### DiscountStoreCard.js
 
-Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
+Componente donde se visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
-![]()
+![](https://i.imgur.com/sgsSCs1.jpg)
 
 [Subir](#Top)
 
@@ -162,7 +162,7 @@ Componente donde si visualiza informacion de la tienda con su respectivo descuen
 * ### DiscountsSlider.js
 
 Componente encargado del diseño del swiper del componente creado.
-![]()
+![](https://i.imgur.com/Z5g4urP.jpg)
 
 [Subir](#Top)
 
@@ -184,7 +184,7 @@ Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este con
 
 Componente que contiene las diferentes cards de las agencias bancarias  y supermercados entes  con el respectivo descuento
 
-![]()
+![](https://i.imgur.com/SKQlAeE.jpg)
 
 [Subir](#Top)
 
@@ -195,7 +195,7 @@ Componente que contiene las diferentes cards de las agencias bancarias  y superm
 
 Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas
 
-![]()
+![](https://i.imgur.com/ua5SHvS.jpg)
 
 [Subir](#Top)
 
@@ -205,7 +205,7 @@ Componente donde muestra las diferentes tarjetas de sus agencias bancarias respe
 
 Componente de navegacion que contine las diferentes categorias del marketplace como gastronomia espectaculos supermercados boliches y farmacias  
 
-![]()
+![](https://i.imgur.com/EwFtfzT.jpg)
 
 [Subir](#Top)
 
@@ -216,7 +216,7 @@ Componente de navegacion que contine las diferentes categorias del marketplace c
 
 Componente encargado para  la vista del pie de pagina del sitio, contiene elementos para el redirecionamiento de las redes del sitio como Facebook, Twitter, Instagram, Youtube
 
-![]()
+![](https://i.imgur.com/BBA3Yib.jpg)
 
 [Subir](#Top)
 
@@ -227,7 +227,7 @@ Componente encargado para  la vista del pie de pagina del sitio, contiene elemen
 
 Componente padre que contiene  los elementos del sidebar  y del body de la pagina donde se pueden apreciar las agencias bancarias los supermecados entes y tiendas  
 
-![]()
+![](https://i.imgur.com/KL1GSr3.jpg)
 
 [Subir](#Top)
 
@@ -238,7 +238,7 @@ Componente padre que contiene  los elementos del sidebar  y del body de la pagin
 
 Componente que contiene los botones de Comprar ayuda y ingresar.
 
-![]()
+![](https://i.imgur.com/ADkFm9n.jpg)
 
 [Subir](#Top)
 
@@ -249,7 +249,7 @@ Componente que contiene los botones de Comprar ayuda y ingresar.
 
 Componente que contiene los botones de buscar.
 
-![]()
+![](https://i.imgur.com/80KPQXG.jpg)
 
 [Subir](#Top)
 
@@ -260,7 +260,7 @@ Componente que contiene los botones de buscar.
 
 Contiene la parte superior del header donde se ubica los items que direcciona la navegación del usuario que contiene el componente NavLinks, NavSearchBar. Tambien esta compuesto por la franga roja que contiene localizacion, ofretas, servicios y comercios.
 
-![]()
+![](https://i.imgur.com/H0q47Mo.jpg)
 
 [Subir](#Top)
 
@@ -271,7 +271,7 @@ Contiene la parte superior del header donde se ubica los items que direcciona la
 
 Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que varia desde un rango desde el mas valorado hast ael menos valorado.
 
-![]()
+![](https://i.imgur.com/F2omuUT.jpg)
 
 [Subir](#Top)
 
@@ -282,7 +282,7 @@ Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que v
 
 Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
-![]()
+![](https://i.imgur.com/4Hr4L1F.jpg)
 
 [Subir](#Top)
 
@@ -292,7 +292,7 @@ Componente donde si visualiza informacion de la tienda con su respectivo descuen
 
 Titulación de las secciones. Recibe parametro de texto modificable, debido a que se utiliza en varias secciones del Home.
 
-![]()
+![](https://i.imgur.com/doBLCzd.jpg)
 
 [Subir](#Top)
 
@@ -303,7 +303,7 @@ Titulación de las secciones. Recibe parametro de texto modificable, debido a qu
 
 Componente encargado del diseño de seleccion de si eres user o tienda.
 
-![]()
+![](https://i.imgur.com/bmd6qnR.jpg)
 
 [Subir](#Top)
 
@@ -313,7 +313,7 @@ Componente encargado del diseño de seleccion de si eres user o tienda.
 
 Componente encargado de mostrar la tarjeta de descuento por tienda.
 
-![]()
+![](https://i.imgur.com/KId3v3n.jpg)
 
 [Subir](#Top)
 
@@ -335,7 +335,7 @@ Componente que filtra resultados por preferencia ya sea por wifi, parques para n
 
 Componente con una descripcion de la informacion de la tienda telefono y sus respectivas redes sociales Facebook Instagram y Whatsapp  
 
-![]()
+![](https://i.imgur.com/6VMA8Xv.jpg)
 
 [Subir](#Top)
 
@@ -347,7 +347,7 @@ Componente con una descripcion de la informacion de la tienda telefono y sus res
 
 Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento,
 
-![]()
+![](https://i.imgur.com/i16JHw3.jpg)
 
 [Subir](#Top)
 
