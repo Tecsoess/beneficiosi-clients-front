@@ -143,6 +143,7 @@ npm run start
 Carpeta Principal que se encarga del contener los componentes de Descuento aplicado en la pagina de Beneficio
 
 ![]() 
+
 [Subir](#Top)
 
 
@@ -152,6 +153,8 @@ Carpeta Principal que se encarga del contener los componentes de Descuento aplic
 
 Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
+![]()
+
 [Subir](#Top)
 
 
@@ -159,6 +162,7 @@ Componente donde si visualiza informacion de la tienda con su respectivo descuen
 * ### DiscountsSlider.js
 
 Componente encargado del diseño del swiper del componente creado.
+![]()
 
 [Subir](#Top)
 
@@ -170,6 +174,8 @@ Componente encargado del diseño del swiper del componente creado.
 
 Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este contiene una variable que permite agregar el contenido correspondiente a casa pagina de la aplicacion. 
 
+![]()
+
 [Subir](#Top)
 
 
@@ -177,6 +183,8 @@ Es un componente padre de enrutamiento entre los hijos Navbar y Footer. Este con
 * ### CardIssuersList.js
 
 Componente que contiene las diferentes cards de las agencias bancarias  y supermercados entes  con el respectivo descuento
+
+![]()
 
 [Subir](#Top)
 
@@ -187,6 +195,8 @@ Componente que contiene las diferentes cards de las agencias bancarias  y superm
 
 Componente donde muestra las diferentes tarjetas de sus agencias bancarias respectivas
 
+![]()
+
 [Subir](#Top)
 
 
@@ -194,6 +204,8 @@ Componente donde muestra las diferentes tarjetas de sus agencias bancarias respe
 * ### Container.js
 
 Componente de navegacion que contine las diferentes categorias del marketplace como gastronomia espectaculos supermercados boliches y farmacias  
+
+![]()
 
 [Subir](#Top)
 
@@ -204,6 +216,8 @@ Componente de navegacion que contine las diferentes categorias del marketplace c
 
 Componente encargado para  la vista del pie de pagina del sitio, contiene elementos para el redirecionamiento de las redes del sitio como Facebook, Twitter, Instagram, Youtube
 
+![]()
+
 [Subir](#Top)
 
 
@@ -212,6 +226,8 @@ Componente encargado para  la vista del pie de pagina del sitio, contiene elemen
 * ### LeftSidebarLayout.js
 
 Componente padre que contiene  los elementos del sidebar  y del body de la pagina donde se pueden apreciar las agencias bancarias los supermecados entes y tiendas  
+
+![]()
 
 [Subir](#Top)
 
@@ -222,6 +238,8 @@ Componente padre que contiene  los elementos del sidebar  y del body de la pagin
 
 Componente que contiene los botones de Comprar ayuda y ingresar.
 
+![]()
+
 [Subir](#Top)
 
 
@@ -230,6 +248,8 @@ Componente que contiene los botones de Comprar ayuda y ingresar.
 * ### NavSearchBar.js
 
 Componente que contiene los botones de buscar.
+
+![]()
 
 [Subir](#Top)
 
@@ -240,6 +260,8 @@ Componente que contiene los botones de buscar.
 
 Contiene la parte superior del header donde se ubica los items que direcciona la navegación del usuario que contiene el componente NavLinks, NavSearchBar. Tambien esta compuesto por la franga roja que contiene localizacion, ofretas, servicios y comercios.
 
+![]()
+
 [Subir](#Top)
 
 
@@ -248,6 +270,8 @@ Contiene la parte superior del header donde se ubica los items que direcciona la
 * ### PageLogo.js
 
 Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que varia desde un rango desde el mas valorado hast ael menos valorado.
+
+![]()
 
 [Subir](#Top)
 
@@ -258,6 +282,8 @@ Componete encargado de clasificar el ratin de la busqueda, en en el sitio, que v
 
 Componente donde si visualiza informacion de la tienda con su respectivo descuento y los agencias afiliadas a este beneficio
 
+![]()
+
 [Subir](#Top)
 
 
@@ -265,6 +291,8 @@ Componente donde si visualiza informacion de la tienda con su respectivo descuen
 * ### SelectCardsList.js
 
 Titulación de las secciones. Recibe parametro de texto modificable, debido a que se utiliza en varias secciones del Home.
+
+![]()
 
 [Subir](#Top)
 
@@ -275,6 +303,8 @@ Titulación de las secciones. Recibe parametro de texto modificable, debido a qu
 
 Componente encargado del diseño de seleccion de si eres user o tienda.
 
+![]()
+
 [Subir](#Top)
 
 
@@ -282,6 +312,8 @@ Componente encargado del diseño de seleccion de si eres user o tienda.
 * ### StoreDiscountCard.js
 
 Componente encargado de mostrar la tarjeta de descuento por tienda.
+
+![]()
 
 [Subir](#Top)
 
@@ -292,6 +324,8 @@ Componente encargado de mostrar la tarjeta de descuento por tienda.
 
 Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos 
 
+![]()
+
 [Subir](#Top)
 
 
@@ -300,6 +334,8 @@ Componente que filtra resultados por preferencia ya sea por wifi, parques para n
 * ### StoreInfo.js
 
 Componente con una descripcion de la informacion de la tienda telefono y sus respectivas redes sociales Facebook Instagram y Whatsapp  
+
+![]()
 
 [Subir](#Top)
 
@@ -311,6 +347,8 @@ Componente con una descripcion de la informacion de la tienda telefono y sus res
 
 Componente mediante el cual cumple la funcion de filtrar los items por sus respectivas etiquetas, ya sea por bebidas, comida rapida, alimentos , estacionamiento,
 
+![]()
+
 [Subir](#Top)
 
 
@@ -318,6 +356,8 @@ Componente mediante el cual cumple la funcion de filtrar los items por sus respe
 * ### TagsFilters.js
 
 componete donde se visualiza y cumple la funcion de visualizar y filtrar los minimos y los maximos de los precios de sus productos
+
+![]()
 
 [Subir](#Top)
 
