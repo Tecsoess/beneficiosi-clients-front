@@ -324,7 +324,7 @@ Componente encargado de mostrar la tarjeta de descuento por tienda.
 
 Componente que filtra resultados por preferencia ya sea por wifi, parques para niños, estacionamientos 
 
-![]()
+![](https://i.imgur.com/jukj3t5.jpg)
 
 [Subir](#Top)
 
@@ -357,7 +357,7 @@ Componente mediante el cual cumple la funcion de filtrar los items por sus respe
 
 componete donde se visualiza y cumple la funcion de visualizar y filtrar los minimos y los maximos de los precios de sus productos
 
-![]()
+![](https://i.imgur.com/MQ0idcS.jpg)
 
 [Subir](#Top)
 
