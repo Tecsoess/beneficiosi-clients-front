@@ -812,610 +812,10 @@ Componete que filtra los elementos por las categorias del sitio
 
 
 <a name="item0"></a>
-* ### 
+* ### SuperMarketsFeaturedProducts.js
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
+Componete que muestra los productos destacados de la categoria supermercados 
 
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
 ![]()
 
 [Subir](#Top)
@@ -1426,9 +826,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TableBody.js
 
-Description
+Componente padre donde se colocan los elementos, es el cuerpo de los elementos 
 
 ![]()
 
@@ -1438,9 +838,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TableCell.js
 
-Description
+Componete que define las celdas que estan el grid del elemento
 
 ![]()
 
@@ -1449,9 +849,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TableHead.js
 
-Description
+Componente padre que se usa definir un layout para separar el espacio de todos los elementos items 
 
 ![]()
 
@@ -1461,9 +861,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TableRow.js
 
-Description
+Componente que se usa definir un layout para separar items
 
 ![]()
 
@@ -1472,9 +872,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TextField.js
 
-Description
+Componente usado para colocar el Campo de Texto  
 
 ![]()
 
@@ -1486,7 +886,7 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### UserAddressCard.js
 
 Description
 
@@ -1498,7 +898,7 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### Componente usado para la informacion de las direcciones del cliente
 
 Description
 
@@ -1509,9 +909,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### VideoComponent.js
 
-Description
+Componete que muestra el video del producto elegido
 
 ![]()
 
@@ -1521,9 +921,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### WhatsappIcon.js
 
-Description
+Componente creado mas no usado hasta el momento
 
 ![]()
 
@@ -1532,9 +932,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### WidgetComponent.js
 
-Description
+Componente usado para facilitar y darle un sentido mas dinamicos a los elementos del sitio 
 
 ![]()
 
@@ -1546,9 +946,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### logOutModal.js
 
-Description
+componente que abre una ventana emergente para cerrar sesion 
 
 ![]()
 
@@ -1558,9 +958,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### statCard.js
 
-Description
+No se usa ese componente en el sitio
 
 ![]()
 
@@ -1569,9 +969,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### StoreNewPost.js
 
-Description
+Componente que se encarga de visualizar los nuevos posteos de las tiendas de sus respectivos productos o eventos 
 
 ![]()
 
@@ -1581,9 +981,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### Checkbox.js
 
-Description
+Elemento para tildar para selecionar un elento y asi filtrar una busqueda
 
 ![]()
 
@@ -1592,9 +992,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### TabContainer.js
 
-Description
+Componente layout usado para dividir elementos por pestañas 
 
 ![]()
 
