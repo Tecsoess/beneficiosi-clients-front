@@ -646,32 +646,9 @@ Componente usado para que los clientes hagan preguntas a los tiendas sobre cualq
 
 
 <a name="item0"></a>
-* ### 
+* ### SearchAddressFilter.js
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
+Componente que filtra las ubicaciones de los envios por ubicacion 
 
 ![]()
 
@@ -681,9 +658,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### SearchInputMobile.js
 
-Description
+Componente que al colocarse en modo de dispositivos moviles abre una ventana para ejecutar las funciones de buscardor 
 
 ![]()
 
@@ -692,23 +669,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### SectionHeading.js 
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
+Componente que se encarga de Cabecera por cada seccion del sitio  
 
 ![]()
 
@@ -718,32 +681,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### Select.js
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
+Componente donde se selecciona el numero de telefono y el codigo del pais al que pertenece el cliente
 
 ![]()
 
@@ -752,9 +692,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### SelectDeliverySection.js
 
-Description
+Componente usado para visualizacion del detalle del delivery cuando el cliente realiza la compra
 
 ![]()
 
@@ -766,32 +706,9 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### SelectGridMode.js
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-
-<a name="item0"></a>
-* ### 
-
-Description
+Componente encargado para los modos de visualizacion ya sea estilo grilla o por modo lista y su respectiva ubicacion en el mapa
 
 ![]()
 
@@ -801,9 +718,92 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### ShareIcon.js
 
-Description
+Componente no utilizado
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### ShowsFeaturedProducts.js
+
+Componente que se encarga de mostrar los productos destacados de la categoria espectaculos
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### StarIcon.js
+
+Componete usado como componete padre para el icono star para luego usarlo para el rating
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### StoreCard.js
+
+Componente donde se visualiza una informacion de una tienda especifica alli se describen ciertas caracteristicas como el ranking, descuento, nombre, ademas si se encuentra abierta o cerrada
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### StoreCategoryFilter.js 
+
+Componete padre que muestra los componetes filtros hijo en en el siderbar 
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### StoreHorizontalCard.js
+
+Componente donde se visualiza la informacion del producto cuando el usuario elige la vista en modo lista alli se aprecian varios items como items, productos, descuentos, ubicacion 
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### StoresCollection.js
+
+Componente donde muestra las tiendas almacenadas en el sitio, directamente desde la base de datos 
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### StoresFilters.js
+
+Componete que filtra los elementos por las categorias del sitio 
 
 ![]()
 
