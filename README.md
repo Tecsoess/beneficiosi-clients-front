@@ -572,7 +572,7 @@ Componente que mediante el efecto slider muestra las diferentes imagenes de un p
 
 Componente que se encarga que luego de haber elegido la compra del producto abre una ventana modal para añadir al carrito de compras el respectivo producto.
 
-![]()
+![](https://i.imgur.com/BxnZYmW.png)
 
 [Subir](#Top)
 
@@ -583,7 +583,7 @@ Componente que se encarga que luego de haber elegido la compra del producto abre
 
 Componete que describe a detalles las caracteristicas del producto, como su nombre lo indica hace referencia a detalles especificos del mismo. 
 
-![]()
+![](https://i.imgur.com/feH5wfi.png)
 
 [Subir](#Top)
 
@@ -594,7 +594,7 @@ Componete que describe a detalles las caracteristicas del producto, como su nomb
 
 Componente con efecto slider para mostrar las card de ofertas y productos 
 
-![]()
+![](https://i.imgur.com/wOSO2JY.png)
 
 [Subir](#Top)
 
@@ -605,7 +605,7 @@ Componente con efecto slider para mostrar las card de ofertas y productos
 
 Componete padre que se encarga de distribuir los demas componentes hijos para su distribucion en la vista ademas donde se redireciona a una vista mas detallada del producto
 
-![]()
+![](https://i.imgur.com/Gv4166X.png)
 
 [Subir](#Top)
 
@@ -616,7 +616,7 @@ Componete padre que se encarga de distribuir los demas componentes hijos para su
 
 Componente encargado de filtrar los resultados ya se a por por ratin caregoria y etiqueta
 
-![]()
+![](https://i.imgur.com/44jXFpQ.png)
 
 [Subir](#Top)
 
@@ -627,7 +627,7 @@ Componente encargado de filtrar los resultados ya se a por por ratin caregoria y
 
 Componente  donde se visualizan los elementos por grilla 
 
-![]()
+![](https://i.imgur.com/iehBEI3.png)
 
 [Subir](#Top)
 
@@ -639,9 +639,909 @@ Componente  donde se visualizan los elementos por grilla
 
 Componente usado para que los clientes hagan preguntas a los tiendas sobre cualquier duda que tengan 
 
+![](https://i.imgur.com/kRFp8Rs.png)
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
 ![]()
 
 [Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
 
 
 
