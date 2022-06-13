@@ -363,3 +363,322 @@ componete donde se visualiza y cumple la funcion de visualizar y filtrar los min
 
 
 
+<a name="item0"></a>
+* ### DiscountModal.js
+
+Componete usado para una ventana emergente para la visualizacion de los bancos afiliados en el descuento de una tienda 
+
+![](https://i.imgur.com/XUa5QyZ.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### Map.js
+
+Compoente encargado de añadir la ubicacion geografica del cliente y a su vez realizar la busqueda de tiendas por geolocalizacion
+
+![](https://i.imgur.com/5ILVdro.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### BolichesFeaturedProducts.js
+
+Componente que muestra los productos mas destacados de la categoria boliches.
+
+![](https://i.imgur.com/MD1vo7u.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### BussinessSection.js
+
+Componente que se encarga de invitar al usuario a registrarse ya sea como usuario cliente o venderdor para disfrutar de los diferentes beneficios que ofrece el marketplace 
+
+![](https://i.imgur.com/J1zH7uy.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### CategoryFilter.js
+
+Componete que filtra las categorias correspondientes dependiendo la tienda si es un cine filtra la categoria por tipo de peliculas, si es un ienda de informatica seria por productos
+
+![](https://i.imgur.com/S8lzFb0.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### CategorySectionCard.js
+
+Componente que muestra de una manera dinamica las difetentes categorias del sitio, donde se redirecciona a la vitrina de productos  
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### CheckoutDetailsCard.js
+
+Componente donde se visualiza los detalles del descuento por la compra del producto, detalles de la compra y direccion de la tienda.
+
+![](https://i.imgur.com/PBd6GVP.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### CustomInput.js
+
+Componente que se utiliza como un campo de texto para indexar la busqueda de lo que se requiere
+
+![](https://i.imgur.com/b6m9zOG.png)
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### 
+
+Description
+
+![]()
+
+[Subir](#Top)
+
+
+
