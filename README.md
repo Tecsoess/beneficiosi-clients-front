@@ -443,170 +443,134 @@ Componente que se utiliza como un campo de texto para indexar la busqueda de lo 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### FeaturedStores.js
 
-Description
+Componente que muestra todas las tiendas destacadas del marketplace
 
-![]()
+![](https://i.imgur.com/H1BL0xm.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### GastronomyFeaturedProducts.js
 
-Description
+Componente encargado de mostrar los productos destacados de la categoria de Gatronomia 
 
-![]()
+![](https://i.imgur.com/iCybsPy.png)
 
 [Subir](#Top)
 
 
+
+
 <a name="item0"></a>
-* ### 
+* ### HomeSlider.js
 
-Description
+Componente que me mediante el swiper muestra diferentes imagenes de los tiendas que ofrecen sus servicios y productos  
 
-![]()
+![](https://i.imgur.com/kAjuOuy.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### MobileAppSection.js
 
-Description
+Es un componete dedicado para informacion o algo que el administrador del sitio requiera colocar
 
-![]()
+![](https://i.imgur.com/a4D1I01.png)
 
 [Subir](#Top)
 
 
+
+
 <a name="item0"></a>
-* ### 
+* ### NecessaryInfo.js 
 
-Description
+Componente con informacion relevante sobre la seguridad y soporte del marketplace 
 
-![]()
+![](https://i.imgur.com/29zxPgf.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### Pagination.js
 
-Description
+Componente encargado de la navegacion entre paginas de los productos por vista
 
-![]()
+![](https://i.imgur.com/LDvsSl6.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### PharmacyFeaturedProducts.js
 
-Description
+Componente que muestra los productos destacados de la Categoria Farmacia
 
-![]()
+![](https://i.imgur.com/A8Qka3i.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### ProductAdCard.js
 
-Description
+Componente donde se visualiza las ofertas de los productos por parte de las tiendas con su respectiva imagen y titulo
 
-![]()
+![](https://imgur.com/a/tjAZI7M)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### ProductCard.js
 
-Description
+Componente donde se visualiza la informacion del producto con su respectivo rating ademas ademas si se encuentra disponible o no se encuentra en existencia  
 
-![]()
+![](https://i.imgur.com/exT6PHs.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### ProductHorizontalCard.js
 
-Description
+Card component donde se visualiza mis productos y tiendas favoritas
 
-![]()
+![](https://i.imgur.com/3PltmF1.png)
 
 [Subir](#Top)
 
 
+
 <a name="item0"></a>
-* ### 
+* ### ProductImagesCarousel.js
 
-Description
+Componente que mediante el efecto slider muestra las diferentes imagenes de un producto
 
-![]()
+![](https://i.imgur.com/p94ZWqZ.png)
 
 [Subir](#Top)
 
 
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
 
 <a name="item0"></a>
-* ### 
+* ### ProductModal.js
 
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-<a name="item0"></a>
-* ### 
-
-Description
-
-![]()
-
-[Subir](#Top)
-
-
-<a name="item0"></a>
-* ### 
-
-Description
+Componente que se encarga que luego de haber elegido la compra del producto abre una ventana modal para añadir al carrito de compras el respectivo producto.
 
 ![]()
 
@@ -615,9 +579,65 @@ Description
 
 
 <a name="item0"></a>
-* ### 
+* ### ProductProfile.js
 
-Description
+Componete que describe a detalles las caracteristicas del producto, como su nombre lo indica hace referencia a detalles especificos del mismo. 
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### ProductsAdsSlider.js 
+
+Componente con efecto slider para mostrar las card de ofertas y productos 
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### ProductsCollection.js
+
+Componete padre que se encarga de distribuir los demas componentes hijos para su distribucion en la vista ademas donde se redireciona a una vista mas detallada del producto
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### ProductsFilters.js
+
+Componente encargado de filtrar los resultados ya se a por por ratin caregoria y etiqueta
+
+![]()
+
+[Subir](#Top)
+
+
+
+<a name="item0"></a>
+* ### ProductsGrid.js
+
+Componente  donde se visualizan los elementos por grilla 
+
+![]()
+
+[Subir](#Top)
+
+
+
+
+<a name="item0"></a>
+* ### QuestionsAnswer.js
+
+Componente usado para que los clientes hagan preguntas a los tiendas sobre cualquier duda que tengan 
 
 ![]()
 
